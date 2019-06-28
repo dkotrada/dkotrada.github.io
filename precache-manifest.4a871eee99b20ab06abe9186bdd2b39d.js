@@ -76,67 +76,67 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "manifest.json"
   },
   {
-    "revision": "bb6096a5adbe424829100eab93ce94cd",
+    "revision": "e0b7ba355ca0725170236f8398a18b32",
     "url": "statics/app-logo-128x128.png"
   },
   {
-    "revision": "51332019b3dd4a837cdab192027d7e79",
+    "revision": "d8a93fe6d6d8442bd61f1db71702ae00",
     "url": "statics/icons/apple-icon-120x120.png"
   },
   {
-    "revision": "672f3176311f246aecdd2e5ae776ce16",
+    "revision": "1caa7442c55ca982897c60f57d3f4a82",
     "url": "statics/icons/apple-icon-152x152.png"
   },
   {
-    "revision": "b37720a9b45cab1595b16943ef90c302",
+    "revision": "fe1f5321689cf74673af11a88b914d06",
     "url": "statics/icons/apple-icon-167x167.png"
   },
   {
-    "revision": "b4ed2d94bbf36b5ac1503baec659b7eb",
+    "revision": "5303de8f4db3f508c8b8a036a7a16625",
     "url": "statics/icons/apple-icon-180x180.png"
   },
   {
-    "revision": "49b4980b59019a95c2020dd688f4bc78",
+    "revision": "132090571a333c95876ac41f70155380",
     "url": "statics/icons/favicon-16x16.png"
   },
   {
-    "revision": "59d6646da622eb7d0c5af2aabbe358d4",
+    "revision": "71b3095be79510a7e81cba9b95f8243a",
     "url": "statics/icons/favicon-32x32.png"
   },
   {
-    "revision": "09a51c0633277dd0a2475f0e33daa901",
+    "revision": "31e173ceba107a7e78d557ba76e0f22f",
     "url": "statics/icons/favicon-96x96.png"
   },
   {
-    "revision": "8273ebbd88ce37b1b4b57c3d730736b3",
+    "revision": "01eaab387e9a2272970e6be8e2dd0afb",
     "url": "statics/icons/favicon.ico"
   },
   {
-    "revision": "bb6096a5adbe424829100eab93ce94cd",
+    "revision": "e0b7ba355ca0725170236f8398a18b32",
     "url": "statics/icons/icon-128x128.png"
   },
   {
-    "revision": "79cef9e199fb56a72566495a4d554de1",
+    "revision": "0845a52978b82d55901e5a188be5e079",
     "url": "statics/icons/icon-192x192.png"
   },
   {
-    "revision": "6fef0211e9330ba3ab8398a407ff3fed",
+    "revision": "baad65953fc72cd4aa1f6a66299d6795",
     "url": "statics/icons/icon-256x256.png"
   },
   {
-    "revision": "3d63ad6f72969746ba348212646740b8",
+    "revision": "c98637ff7efbdd9eb21b6a88e5649e65",
     "url": "statics/icons/icon-384x384.png"
   },
   {
-    "revision": "6262bf439fa9caac88ca4afeea774b4e",
+    "revision": "1924d32dbef23cd5f92eb9d3b781a47c",
     "url": "statics/icons/icon-512x512.png"
   },
   {
-    "revision": "9d6d5e55a4fca87f53f96cb06ad631f7",
+    "revision": "893d067e7ee495b0836da004a24f64b9",
     "url": "statics/icons/ms-icon-144x144.png"
   },
   {
-    "revision": "8804de6f75ccfead5e138ddd9573c136",
+    "revision": "3d67d91ab8cb47b90508301a6b9cc179",
     "url": "statics/icons/safari-pinned-tab.svg"
   }
 ]);
